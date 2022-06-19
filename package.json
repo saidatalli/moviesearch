@@ -1,0 +1,21 @@
+{
+  "name": "moviesearch",
+  "version": "1.0.0",
+  "description": "find any movie, anytime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie",
+    "search"
+  ],
+  "author": "Saidat Alli",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
